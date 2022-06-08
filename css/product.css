@@ -353,7 +353,7 @@
     margin-left: -8px;
 }
 @media screen and (max-width:786px) {
-    /* label img, .input-group input{height: 30px;} */
+    label img, .input-group input{height: 30px;}
     /* .submit{height:10px}; */
     /* .input-group-btn i{font-size:0.3rem; } */
     .modal-title{font-size:1.8rem;}
