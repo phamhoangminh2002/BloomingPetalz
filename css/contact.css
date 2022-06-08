@@ -1,0 +1,128 @@
+.contact-top{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    padding:50px;
+    justify-content: space-between;
+    background-color: #F5F5F5;
+}
+.contact-top-text, .contact-top-submit{
+    display: flex;
+    flex: 40%;
+    align-items: center;
+}
+.contact-top i{
+    font-size:3rem;
+    color: var(--main);
+}
+.contact-top h4{
+    color: var(--grey);
+    font-weight: bold;
+    font-family:var(--m-family);
+}
+.contact-top input{
+    width: 100%;   
+    height:50px;  
+    outline: none;
+    border: none;
+    padding:20px;
+}
+.contact-top button{
+    padding:0 30px;
+    color: var(--white);
+    background-color: var(--main);
+    border: none;
+    height: 50px;
+}
+.contact-top button:hover{
+    background-color:#000000;
+}
+.contact-bottom{
+    background-color:black;
+    display: flex;
+    width: 100%;
+    padding:20px;
+}
+.map{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.contact-bottom h3{
+    color: var(--white);
+    padding-bottom: 10px;
+}
+.map-container iframe{
+    width:30vw;
+    height: 30vh;
+}
+.map-icon{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+.map-icon i{
+    font-size:1.5rem;
+    color: #888888;
+    padding-right: 40px;
+}
+.map-icon i:hover{
+    transform: translateY(-5px);
+    color: var(--white);
+    transition: 0.3s;
+}
+.col{
+    width: calc(70%/3);
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    padding-left:5%;
+}
+.col a,p{
+    color: #888888;
+    padding:10px 0;
+    cursor:pointer;
+}
+.col a:hover, .col p:hover{
+    color: var(--white);
+    transform:translateX(10px);
+    transition:0.5s;
+}
+.col i{
+    color:#888888;
+}
+.col span{
+    margin-left: 10px;
+}
+@media screen and (max-width:786px) {
+    .contact-top{
+        flex-wrap: wrap;
+    }
+    .contact-top-text, .contact-top-submit{
+        flex: 100%;
+    }
+    .contact-top h4{
+        margin-bottom: 50px;
+    }
+    .contact-bottom{
+        flex-wrap: wrap;
+    }
+    .contact-bottom .map{
+        width: 50%;
+    }
+    .col{
+        width: 50%;
+    }
+}
+@media screen and (max-width:576px){
+    .contact-bottom .map{
+        width: 100%;
+    }
+    .col{
+        width: 100%;
+    }
+    .map iframe{
+        width: 100%;
+    }
+}

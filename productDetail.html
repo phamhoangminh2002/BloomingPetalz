@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/product.css">
+</head>
+<style>
+    #productDetail{
+        width: 90%;
+        margin:auto;
+        padding: 50px 0 50px 0;
+    }
+    .detail-img{
+        display: flex;
+        overflow: hidden;
+        height:700px;
+        flex-shrink: 0;
+    }
+    .detail-img img{
+        width: 100%;
+        /* height: 600px; */
+        /* object-fit: cover; */
+    }
+    .detail-content{
+        padding-left: 5%;
+    }
+    .detail-content >h3{
+        font-size:2rem;
+        font-family: 'Karla';
+        color: var(--orange);
+    }
+    .detail-content> h2{
+        line-height:30px;
+        margin: 10px 0 20px 0;
+        font-weight: 100;    
+        color: var(--grey);
+    }
+    .add-to-cart{
+        padding: 8px 25px;
+        background-color: var(--orange);
+        color: var(--white);
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .add-to-cart:hover{
+        box-shadow: 0 0 5px var(--black),
+                    0 0 5px var(--black);
+        transform: translateY(-5px);
+    }
+    @media screen and (max-width: 768px){
+        .detail-content >h3{
+            font-size:1.2rem;
+        }
+        .detail-content>h2{
+            font-size:1rem;
+        }
+   
+    }
+
+</style>
+<body>
+    <div class="row" id="productDetail">
+        <div class="col-7 detail-img">
+            <div><img src="imgs/amber.jpg" alt="" class="flowerImage"></div>
+        </div>
+        <div class="col-5 detail-content">
+            <h3>Blooming Petalz</h3>
+            <h2>Price: $180</h2>
+            <div>
+                <p>Flower beatiful</p>
+            </div>
+            <a href="#" data-name="${v.name}" data-price="${v.price}" class="add-to-cart">Add to cart</a>
+        </div>
+    </div>  
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="js/product.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/compare.js"></script>
+<script>
+    getUrlID();
+    productDetail();
+</script>
+</body>
+</html>

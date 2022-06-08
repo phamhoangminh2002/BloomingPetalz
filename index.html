@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="css/product.css">
+    <link rel="stylesheet" href="/css/blog.css">
+    <link rel="stylesheet" href="/css/contact.css">
+    <!-- <link rel="stylesheet" href="/css/w3.css"> -->
+</head>
+<body>
+      <div class="nav">
+          <div class="nav-logo">
+              <h3>Blooming Petalz</h3>
+          </div>
+          <div class="nav-menu">
+              <a href="#home">HOME</a>
+              <a href="#product">PRODUCT</a>
+              <a href="#blog">BLOG</a>
+              <a href="">ABOUT US</a>
+              <a href="#contact">CONTACT US</a>
+              <i class="fa-solid fa-xmark" id="btn-x"></i>
+          </div>
+          <div class="nav-icon">
+                    <!-- <input type="text" class="form-control" placeholder="Search" id="search" name="search"> -->
+              <!-- <i class="fa-solid fa-magnifying-glass"></i> --> 
+              <i class="fa-solid fa-cart-shopping" data-toggle="modal" data-target="#cart" id="cartIcon">
+                <b><span class="total-count">0</span></b>
+              </i>
+              <i class="fa-solid fa-bars" id="btn-bars"></i>
+          </div>
+      </div>
+    <!-- Home Page Content -->
+    <section class="home slideshow-container" id="home">
+          <div class="overlay-home"></div>
+
+          <div class="mySlides fade">
+            <img src="/imgs/backgroud.png" style="width:100%">
+            <div class="text">
+              <h1>Fresh Flowers &</h1>
+              <h1>Feeling Love</h1>
+              <h2>$18.00</h2>
+              <button class="button">VIEW COLLECTION</button>
+            </div>
+          </div>
+        
+          <div class="mySlides fade">
+            <img src="/imgs/backgroud2.png" style="width:100%">
+            <div class="text">
+              <h1>Fresh Flowers For</h1>
+              <h1>You</h1>
+              <h2>$18.00</h2>
+              <button class="button">VIEW COLLECTION</button>
+            </div>
+          </div>
+          <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+          <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </section>
+
+    <!-- Product -->
+    <section class="product" id="product">
+      <div class="category">
+        <div class="label-container">
+          <label for="bestSellers" id="label-1"><img src="/imgs/category.png" alt="">Bestsellers</label>
+          <label for="bouquet" id="label-2"><img src="/imgs/category2.png" alt="">Bouquet</label>
+          <label for="bloombox" id="label-3"><img src="/imgs/category3.png" alt="">Bloombox</label>
+          <label for="giftbox" id="label-4"><img src="/imgs/category4.png" alt="">Giftbox</label>
+        </div>
+        <form class="form-search" id="formSearch">
+          <div class="input-group">
+              <input type="text" class="form-control" placeholder="Search" id="search" name="search">
+              <div class="input-group-btn">
+                  <button class="" type="submit">
+                      <i class="fa-solid fa-magnifying-glass"></i>
+                  </button>
+              </div>
+          </div>
+        </form>
+      </div>
+     <div class="hidden">
+      <input type="checkbox" id="bestSellers" class="chk-cake" name="cat" value="bestSellers">
+      <input type="checkbox" id="bouquet" class="chk-cake" name="cat" value="bouquet">
+      <input type="checkbox" id="bloombox" class="chk-cake" name="cat" value="bloombox"> 
+      <input type="checkbox" id="giftbox" class="chk-cake" name="cat" value="giftbox">
+     </div>
+      <div class="row-card" id="products">
+          <div class="card-container">
+            <div class="card-img">
+                <a href="">
+                  <img src="/imgs/be_mine_bouquet.jpg" alt="">
+                </a>
+            </div>
+            <div class="card-content">
+                <h4>Product Name</h4>
+                <p><span>$Price</span></p>
+                <a href="">BUY NOW</a>
+            </div>
+          </div>
+
+          <!-- <div class="card-container">
+            <div class="card-img">
+                <a href="">
+                  <img src="/imgs/be_mine_bouquet.jpg" alt="">
+                </a>
+            </div>
+            <div class="card-content">
+                <h4>Product Name</h4>
+                <p><span>$Price</span></p>
+                <a href="">BUY NOW</a>
+            </div>
+          </div>
+
+          <div class="card-container">
+            <div class="card-img">
+                <a href="">
+                  <img src="/imgs/be_mine_bouquet.jpg" alt="">
+                </a>
+            </div>
+            <div class="card-content">
+                <h4>Product Name</h4>
+                <p><span>$Price</span></p>
+                <a href="">BUY NOW</a>
+            </div>
+          </div>
+
+          <div class="card-container">
+            <div class="card-img">
+                <a href="">
+                  <img src="/imgs/be_mine_bouquet.jpg" alt="">
+                </a>
+            </div>
+            <div class="card-content">
+                <h4>Product Name</h4>
+                <p><span>$Price</span></p>
+                <a href="">BUY NOW</a>
+            </div>
+          </div>
+
+          <div class="card-container">
+            <div class="card-img">
+                <a href="">
+                  <img src="/imgs/be_mine_bouquet.jpg" alt="">
+                </a>
+            </div>
+            <div class="card-content">
+                <h4>Product Name</h4>
+                <p><span>$Price</span></p>
+                <a href="">BUY NOW</a>
+            </div>
+          </div>
+
+          <div class="card-container">
+            <div class="card-img">
+                <a href="">
+                  <img src="/imgs/be_mine_bouquet.jpg" alt="">
+                </a>
+            </div>
+            <div class="card-content">
+                <h4>Product Name</h4>
+                <p><span>$Price</span></p>
+                <a href="">BUY NOW</a>
+            </div>
+          </div>
+
+          <div class="card-container">
+            <div class="card-img">
+                <a href="">
+                  <img src="/imgs/be_mine_bouquet.jpg" alt="">
+                </a>
+            </div>
+            <div class="card-content">
+                <h4>Product Name</h4>
+                <p><span>$Price</span></p>
+                <a href="">BUY NOW</a>
+            </div>
+          </div>
+
+          <div class="card-container">
+            <div class="card-img">
+                <a href="">
+                  <img src="/imgs/be_mine_bouquet.jpg" alt="">
+                </a>
+            </div>
+            <div class="card-content">
+                <h4>Product Name</h4>
+                <p><span>$Price</span></p>
+                <a href="">BUY NOW</a>
+            </div>
+          </div> -->
+      </div>
+
+<!--preview compare panel-->
+<div class="panel-container">
+  <div class="row comparePanel">
+      <div class="row">
+          <div class="col-9 col-tab-6">
+              <h4>Added for comparison</h4>
+          </div>
+          <div class="col-6 col-tab-6">   
+              <button class="btn-compare" disabled>Compare</button>
+          </div>
+      </div>
+      <div class="row comparePan">
+      </div>
+  </div>
+</div>
+<!--end of preview compare panel-->
+<!-- Modal cart-->
+<div class="modal" id="cart">
+  <div class="modal-content">
+      <div class="modal-header">
+          <i class="fa-solid fa-xmark" id="btnX"></i>
+          <h1 class="modal-title" id="exampleModalLabel">Cart</h1>
+      </div>
+      <div class="modal-body">
+          <table class="show-cart table">
+              
+          </table>
+          <h3>Total price: $<span class="total-cart"></span></h3>
+          </div>
+      <div class="modal-footer">
+          <button type="button" class="btn-order">Order now</button>
+      </div>
+  </div>
+</div> 
+<!-- End modal cart -->
+
+<!-- comparision popup-->
+<div id="popup" class="animate-zoom popup-modal modPos">
+  <div class="container">
+      <a onclick="document.getElementById('popup').style.display='none'" class="closeBtn">×</a>
+  </div>
+  <div class="row contentPop">
+  </div>
+
+</div>
+    </section>
+
+    <!-- Blog -->
+    <section id="blog">
+      <div class="title-blog">
+        <h2><strong>Latest Blog</strong></h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
+        <p>incididunt ut labore et dolore magna aliqua.</p>
+      </div>
+      <div class="row-blog">
+        <div class="blog-container">
+          <div class="blog-img">
+            <img src="/imgs/blog1.jpg" alt="">
+          </div>
+          <div class="blog-content">
+            <p>By, <span>Admin</span>.25 May,2022</p>
+            <h2>Every flower blooms</h2>
+            <button class="btn-black">READ MORE</button>
+          </div>
+        </div>
+  
+        <div class="blog-container">
+          <div class="blog-img">
+            <img src="/imgs/blog2.jpg" alt="">
+          </div>
+          <div class="blog-content">
+            <p>By, <span>Admin</span>.25 May,2022</p>
+            <h2>A Beautiful Sunday Morming</h2>
+            <button class="btn-black">READ MORE</button>
+          </div>
+        </div>
+  
+        <div class="blog-container">
+          <div class="blog-img">
+            <img src="/imgs/blog3.jpg" alt="">
+          </div>
+          <div class="blog-content">
+            <p>By, <span>Admin</span>.25 May,2022</p>
+            <h2>Kitchen Inspired On Japanese</h2>
+            <button class="btn-black">READ MORE</button>
+          </div>
+        </div>
+      </div>
+      <div class="methods">
+         <div class="method">
+           <div class="method-img">
+             <img src="/imgs/1.png" alt="">
+           </div>
+           <div class="method-content">
+             <h3>Free Shipping</h3>
+             <p>Capped at $39 per order</p>
+           </div>
+         </div>
+
+         <div class="method">
+          <div class="method-img">
+            <img src="/imgs/2.png" alt="">
+          </div>
+          <div class="method-content">
+            <h3>Card Payment</h3>
+            <p>12 Months Installments</p>
+          </div>
+        </div>
+
+        <div class="method">
+          <div class="method-img">
+            <img src="/imgs/3.png" alt="">
+          </div>
+          <div class="method-content">
+            <h3>Easy Return</h3>
+            <p>Shop With Confidence</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Us -->
+    <section id="contact">
+      <div class="contact-top">
+        <div class="contact-top-text">
+          <i class="fa-solid fa-envelopes-bulk"></i>    
+          <h4>JOIN THE COMMUNITY TO BE UPDATED FIRSTLY?</h4>
+        </div>
+        <div class="contact-top-submit">
+          <input type="text" placeholder="Enter your email address">
+          <button>SUBMIT</button>
+        </div>
+      </div>
+
+      <div class="contact-bottom">
+        <div class="map">
+          <h3>Location</h3>
+          <div class="map-container">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.319281359235!2d106.6640856143368!3d10.786840061952118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ed2392c44df%3A0xd2ecb62e0d050fe9!2zRlBUIEFwdGVjaCBIQ00gLSBI4buHIFRo4buRbmcgxJDDoG8gVOG6oW8gTOG6rXAgVHLDrG5oIFZpw6puIFF14buRYyBU4bq_IChTaW5jZSAxOTk5KQ!5e0!3m2!1svi!2s!4v1650424706380!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+          <div class="map-icon">
+            <i class="fa-brands fa-facebook-f"></i>
+            <i class="fa-solid fa-envelope"></i>
+            <i class="fa-brands fa-instagram"></i>
+          </div>
+        </div>
+        <div class="col">
+          <h3>Information</h3>
+            <a href="">About Us</a>
+            <a href="">Delivery Information</a>
+            <a href="">Privacy Policy</a>
+            <a href="">Terms & Conditions</a>
+        </div>
+        <div class="col">
+          <h3>Etras</h3>
+          <a href="">Brands</a>
+          <a href="">Gift Certificates</a>
+          <a href="">Affiliate</a>
+          <a href="">Specials</a>
+        </div>
+        <div class="col">
+          <h3>Store Information</h3>
+          <p><i class="fa-solid fa-phone"></i><span>0354868289</span></p>
+          <p><a href="mailto:bloomingpetal@domain.com" target="_blank"><i class="fa-solid fa-envelope"></i><span>bloomingpetal@domain.com</span></a></p>
+        </div>
+      </div>
+
+      
+    </section>
+
+
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/smooth.js"></script>
+<script src="/js/product.js"></script>
+<script src="/js/cart.js"></script>
+<script src="js/compare.js"></script>
+</html>
