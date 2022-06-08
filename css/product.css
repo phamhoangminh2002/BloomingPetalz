@@ -172,10 +172,10 @@
         height: 340px;
     }
     .card-container .card-content a{
-        /* font-size:10px; */
+        font-size:10px;
     }
     .card-content h4,p{
-        /* font-size: 0.8rem; */
+        font-size: 0.8rem;
     }
 }
 /********** End card**************** */
@@ -208,6 +208,19 @@
 }
 .chk-cake:checked label{
     color:red;
+}
+@media screen and (max-width:786px) {
+    .category{
+        flex-wrap: wrap;
+    }
+    .label-container{
+        flex: 100%;
+    }
+    .form-search{
+        flex: 100%;
+        justify-content:center;
+        padding-top: 20px;
+    }
 }
 /* input:checked label{
     color: red;
