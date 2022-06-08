@@ -152,6 +152,7 @@
     }
 }
 @media screen and (max-width:786px){
+    .row-card{width: 100%;}
     .card-container{
         width: calc(50% - 20px);
         height: 340px;
@@ -352,8 +353,9 @@
     margin-left: -8px;
 }
 @media screen and (max-width:786px) {
-    label img, .input-group input{height: 30px;}
-    .input-group-btn i{font-size:1.6rem; }
+    /* label img, .input-group input{height: 30px;} */
+    /* .submit{height:10px}; */
+    /* .input-group-btn i{font-size:0.3rem; } */
     .modal-title{font-size:1.8rem;}
     .modal-body table tr th{
         font-size: 0.8rem;
