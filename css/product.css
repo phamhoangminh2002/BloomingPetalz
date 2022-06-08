@@ -193,7 +193,7 @@
         justify-content:center;
         padding-top: 20px;
     }
-   label{font-size:0.8rem;}
+   label{font-size:0.8rem;padding-right: 20px;}
 }
 /* Preview cart panel */
 .popup-modal{
