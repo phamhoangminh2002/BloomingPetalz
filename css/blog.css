@@ -82,9 +82,6 @@
         width: 100%;
         border-bottom: 1px solid var(--border);
     }
-    .method h3{
-        font-size:1rem;
-    }
     .row-blog{flex-wrap: wrap;}
     .blog-container{
         width:45%;
