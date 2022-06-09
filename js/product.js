@@ -3,11 +3,11 @@ var data = [
         "id": "p01",
         "name": "Be Mine Bouquet",
         "pic": "be_mine_bouquet.jpg",
-        "price": 100,
+        "price": 100,   
         "pic1": "one1_1.jpg",
         "pic2": "one1_2.jpg",
         "pic3": "one1_3.jpg",
-        "description": "flower 1Product DetailsBe Mine comes with 27 red soap roses together with eucalyptus and LED.Size : 54cm x 48cm.*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong>Be Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bestSellers"
     },
     {
@@ -18,7 +18,7 @@ var data = [
         "pic1": "one3_1.jpg",
         "pic2": "one3_2.jpg",
         "pic3": "one3_3.jpg",
-        "description": "Product Details Be My Lover comes with 12 red soap roses with diamond pins.Size : 29cm x 32cm.*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bestSellers"
     },
     {
@@ -29,7 +29,7 @@ var data = [
         "pic1": "one4_1.jpg",
         "pic2": "one4_2.jpg",
         "pic3": "one4_3.jpg",
-        "description": "Product DetailsSweet Heart with 18 pink soap roses together with babybreath.Size : 39cm x 50cm.*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery wthin Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bestSellers"
     },
     {
@@ -40,7 +40,7 @@ var data = [
         "pic1": "one6_1.jpg",
         "pic2": "one6_2.jpg",
         "pic3": "one6_3.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bestSellers"
     },
     {
@@ -50,7 +50,7 @@ var data = [
         "price": 150,
         "pic1": "one7_1.jpg",
         "pic2": "one7_2.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bestSellers"
     },
     {
@@ -61,7 +61,7 @@ var data = [
         "pic1": "one8_1.jpg",
         "pic2": "one8_2.jpg",
         "pic3": "one8_3.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bestSellers"
     },
     {
@@ -72,7 +72,7 @@ var data = [
         "pic1": "one10_1.jpg",
         "pic2": "one10_2.jpg",
         "pic3": "one10_3.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bouquetOfTheMonth"
     },
     {
@@ -83,7 +83,7 @@ var data = [
         "pic1": "one11_1.jpg",
         "pic2": "one11_2.jpg",
         "pic3": "one11_3.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bouquet"
     },
     {
@@ -93,7 +93,7 @@ var data = [
         "price": 115,
         "pic1": "one12_1.jpg",
         "pic2": "one12_2.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bouquet"
     },
     {
@@ -104,7 +104,7 @@ var data = [
         "pic1": "one13_1.jpg",
         "pic2": "one13_2.jpg",
         "pic3": "one13_3.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bouquet"
     },
     {
@@ -115,7 +115,7 @@ var data = [
         "pic1": "one14_1.jpg",
         "pic2": "one14_2.jpg",
         "pic3": "one14_3.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bouquet"
     },
     {
@@ -126,6 +126,7 @@ var data = [
         "pic1": "one16_1.jpg",
         "pic2": "one16_2.jpg",
         "pic3": "one16_3.jpg",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "giftbox"
     },
     {
@@ -136,7 +137,7 @@ var data = [
         "pic1": "one17_1.jpg",
         "pic2": "one17_2.jpg",
         "pic3": "one17_3.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "giftbox"
     },
     {
@@ -147,7 +148,7 @@ var data = [
         "pic1": "one18_1.jpg",
         "pic2": "one18_2.jpg",
         "pic3": "one18_3.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "giftbox"
     },
     {
@@ -158,7 +159,7 @@ var data = [
         "pic1": "one19_1.jpg",
         "pic2": "one19_2.jpg",
         "pic3": "one19_3.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bloombox"
     },
     {
@@ -168,18 +169,18 @@ var data = [
         "price": 130,
         "pic1": "one20_1.jpg",
         "pic2": "one20_2.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bloombox"
     },
     {
         "id": "p21",
-        "name": "True Love Big Size Bloombox",
+        "name": "True Love Big<strong>Size: </strong>loombox",
         "pic": "sapphire.jpg",
         "price": 130,
         "pic1": "one21_1.jpg",
         "pic2": "one21_2.jpg",
         "pic3": "one21_3.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bloombox"
     },
     {
@@ -189,7 +190,7 @@ var data = [
         "price": 130,
         "pic1": "one22_1.jpg",
         "pic2": "one22_2.jpg",
-        "description": "Product DetailsRuby comes with 12 red and maroon soap roses.Size : 30cm*Flower arrangement, shades, bloom sizes may vary from the picture shown.Available for Same Day Delivery within Klang Valley (order placed before 12pm.)Free Message Card.**Any enquiries please chat with us at 011-56278126 before placing an order**Save this product for later",
+        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bloombox"
     }
 ];
@@ -250,7 +251,7 @@ function productDetail(){
                     </div>
             <div class="detail-text">
                 <h2>${v.name}</h2>
-                <h3>${v.price}$</h3>
+                <h3>Price:${v.price}$</h3>
                 <p>${v.description}</p>
                 <a href="#" data-name="${v.name}" data-price="${v.price}" class="add-to-cart">Add to cart</a>
             </div>

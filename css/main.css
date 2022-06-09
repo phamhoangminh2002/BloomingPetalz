@@ -52,6 +52,7 @@ button{font-size:0.8rem}
     h4{font-size:0.8rem;}
     a{font-size: 0.8rem;}
 }
+p{font-family:Verdana, Geneva, Tahoma, sans-serif}
 i,button{cursor: pointer;}
 body{position: relative;}
 .hidden{display: none;}
