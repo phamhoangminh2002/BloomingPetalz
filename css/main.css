@@ -35,9 +35,8 @@
 h1{font-size:4rem; font-family:'Karla';}
 h2{font-size:1.8rem;font-family:'Karla';}
 h3{font-size:1.8rem;font-family:'Karla';}
-h4{font-size:1.2rem;}
+h4{font-size:1.2rem;font-family:'Karla';}
 button{font-size:0.8rem}
-/* a{font-family: 'Karla';} */
 @media screen and (max-width:786px) {
     h1{ font-size:3rem;}
     h2{font-size:1.5rem;}

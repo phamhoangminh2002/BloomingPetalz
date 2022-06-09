@@ -136,7 +136,6 @@
     text-decoration: none;
     color:var(--white);
     font-weight: 600;
-    /* font-size:14px; */
     border-radius: 2px;
     justify-content: space-between;
 }
