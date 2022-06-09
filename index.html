@@ -7,6 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/home.css">
     <link rel="stylesheet" href="css/product.css">
     <link rel="stylesheet" href="css/blog.css">
     <link rel="stylesheet" href="css/contact.css">
@@ -31,6 +32,7 @@
               <i class="fa-solid fa-bars" id="btn-bars"></i>
           </div>
       </div>
+
     <!-- Home Page Content -->
     <section class="home slideshow-container" id="home">
           <div class="overlay-home"></div>
@@ -97,144 +99,55 @@
                 <a href="">BUY NOW</a>
             </div>
           </div>
-
-          <!-- <div class="card-container">
-            <div class="card-img">
-                <a href="">
-                  <img src="imgs/be_mine_bouquet.jpg" alt="">
-                </a>
-            </div>
-            <div class="card-content">
-                <h4>Product Name</h4>
-                <p><span>$Price</span></p>
-                <a href="">BUY NOW</a>
-            </div>
-          </div>
-
-          <div class="card-container">
-            <div class="card-img">
-                <a href="">
-                  <img src="imgs/be_mine_bouquet.jpg" alt="">
-                </a>
-            </div>
-            <div class="card-content">
-                <h4>Product Name</h4>
-                <p><span>$Price</span></p>
-                <a href="">BUY NOW</a>
-            </div>
-          </div>
-
-          <div class="card-container">
-            <div class="card-img">
-                <a href="">
-                  <img src="imgs/be_mine_bouquet.jpg" alt="">
-                </a>
-            </div>
-            <div class="card-content">
-                <h4>Product Name</h4>
-                <p><span>$Price</span></p>
-                <a href="">BUY NOW</a>
-            </div>
-          </div>
-
-          <div class="card-container">
-            <div class="card-img">
-                <a href="">
-                  <img src="imgs/be_mine_bouquet.jpg" alt="">
-                </a>
-            </div>
-            <div class="card-content">
-                <h4>Product Name</h4>
-                <p><span>$Price</span></p>
-                <a href="">BUY NOW</a>
-            </div>
-          </div>
-
-          <div class="card-container">
-            <div class="card-img">
-                <a href="">
-                  <img src="imgs/be_mine_bouquet.jpg" alt="">
-                </a>
-            </div>
-            <div class="card-content">
-                <h4>Product Name</h4>
-                <p><span>$Price</span></p>
-                <a href="">BUY NOW</a>
-            </div>
-          </div>
-
-          <div class="card-container">
-            <div class="card-img">
-                <a href="">
-                  <img src="imgs/be_mine_bouquet.jpg" alt="">
-                </a>
-            </div>
-            <div class="card-content">
-                <h4>Product Name</h4>
-                <p><span>$Price</span></p>
-                <a href="">BUY NOW</a>
-            </div>
-          </div>
-
-          <div class="card-container">
-            <div class="card-img">
-                <a href="">
-                  <img src="imgs/be_mine_bouquet.jpg" alt="">
-                </a>
-            </div>
-            <div class="card-content">
-                <h4>Product Name</h4>
-                <p><span>$Price</span></p>
-                <a href="">BUY NOW</a>
-            </div>
-          </div> -->
       </div>
 
-<!--preview compare panel-->
-<div class="panel-container">
-  <div class="row comparePanel">
-      <div class="row">
-          <div class="col-9 col-tab-6">
-              <h4>Added for comparison</h4>
-          </div>
-          <div class="col-6 col-tab-6">   
-              <button class="btn-compare" disabled>Compare</button>
-          </div>
+      <!--preview compare panel-->
+      <div class="panel-container">
+        <div class="row comparePanel">
+            <div class="row">
+                <div class="col-9 col-tab-6">
+                    <h4>Added for comparison</h4>
+                </div>
+                <div class="col-6 col-tab-6">   
+                    <button class="btn-compare" disabled>Compare</button>
+                </div>
+            </div>
+            <div class="row comparePan">
+            </div>
+        </div>
       </div>
-      <div class="row comparePan">
-      </div>
-  </div>
-</div>
-<!--end of preview compare panel-->
-<!-- Modal cart-->
-<div class="modal" id="cart">
-  <div class="modal-content">
-      <div class="modal-header">
-          <i class="fa-solid fa-xmark" id="btnX"></i>
-          <h1 class="modal-title" id="exampleModalLabel">Cart</h1>
-      </div>
-      <div class="modal-body">
-          <table class="show-cart table">
-              
-          </table>
-          <h3>Total price: $<span class="total-cart"></span></h3>
-          </div>
-      <div class="modal-footer">
-          <button type="button" class="btn-order">Order now</button>
-      </div>
-  </div>
-</div> 
-<!-- End modal cart -->
+      <!--end of preview compare panel-->
 
-<!-- comparision popup-->
-<div id="popup" class="animate-zoom popup-modal modPos">
-  <div class="container">
-      <a onclick="document.getElementById('popup').style.display='none'" class="closeBtn">×</a>
-  </div>
-  <div class="row contentPop">
-  </div>
+      <!-- Modal cart-->
+      <div class="modal" id="cart">
+        <div class="modal-content">
+            <div class="modal-header">
+                <i class="fa-solid fa-xmark" id="btnX"></i>
+                <h1 class="modal-title" id="exampleModalLabel">Cart</h1>
+            </div>
+            <div class="modal-body">
+                <table class="show-cart table">
+                    
+                </table>
+                <h3>Total price: $<span class="total-cart"></span></h3>
+                </div>
+            <div class="modal-footer">
+                <button type="button" class="btn-order">Order now</button>
+            </div>
+        </div>
+      </div> 
+      <!-- End modal cart -->
 
-</div>
+      <!-- comparision popup-->
+      <div id="popup" class="animate-zoom popup-modal modPos">
+        <div class="container">
+            <a onclick="document.getElementById('popup').style.display='none'" class="closeBtn">×</a>
+        </div>
+        <div class="row contentPop">
+        </div>
+
+      </div>
+      <!-- End popup -->
     </section>
 
     <!-- Blog -->
@@ -356,8 +269,6 @@
           <p><a href="mailto:bloomingpetal@domain.com" target="_blank"><i class="fa-solid fa-envelope"></i><span>bloomingpetal@domain.com</span></a></p>
         </div>
       </div>
-
-      
     </section>
 
 
