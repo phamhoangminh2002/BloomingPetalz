@@ -50,12 +50,15 @@
      padding: 10px;
      outline: none;
  }
+ .input-group button{
+     border: none;
+     background-color: transparent;
+ }
  .input-group-btn i{
-     font-size:2.2rem;
+     font-size:2rem;
      border: none;
      cursor: pointer;
-     color:var(--white);
-     background-color:#888;
+     color:var(--black);
  }
  .input-group-btn i:hover{color:var(--main);}
 @media screen and (max-width:786px) {
@@ -69,7 +72,11 @@
     label{font-size:0.8rem;padding-right: 20px;}
    .input-group input{width:80%;}
    label img, .input-group input{height: 30px;}
-
+}
+@media screen and (max-width:576px) {
+    .input-group-btn i{
+        font-size: 1.7rem;
+    }
 }
 
 /* Card */
