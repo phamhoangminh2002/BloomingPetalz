@@ -154,24 +154,22 @@
 }
 .card-content p{color:var(--grey);}
 @media screen and (max-width:1199px){
-    .card-container{
-        width: calc(33% - 20px);
-        height: 400px;
-    }
+    .card-container{width: calc(33% - 20px);}
 }
 @media screen and (max-width:1023px){
     .card-container{
         width: calc(33% - 20px);
-        height: 360px;
+        height: 370px;
     }
+    .card-container h4{font-size:1rem;}
 }
 @media screen and (max-width:786px){
     .row-card{width: 100%;}
-    .card-container{
-        width: calc(50% - 20px);
-        height: 340px;
-    }
+    .card-container{height: 300px;}
     .card-container .card-content a,.card-content h4,p{font-size:0.7rem;}
+}
+@media screen and (max-width:576px) {
+    .card-container{width: calc(50% - 20px);}
 }
 /********** End card**************** */
 
@@ -190,18 +188,22 @@
     margin-top:16px;
 }
 .panel-item{
-    box-shadow: 5px 0 5px var(--grey);
+    box-shadow: 5px 0 5px var(--border);
     padding-top:20px;
 }
 .btn-compare{
     padding:10px;
-    background-color:var(--main);
+    background-color:var(--border);
+    border: none;
     color: var(--white);
     border-radius: 5px;
     margin-top:10px;
     margin-right: 20px;
     float: right !important;
     cursor: pointer;
+}
+.btn-compare.active{
+    background-color: var(--main);
 }
 .selectedItemCloseBtn{
     position: absolute;
@@ -229,32 +231,24 @@
     display: none !important;   
 }
 .card-container:hover .addButtonCircular{display: block !important;}
-.contentPop{
-    width: 100%;
-    height: 100%;
-    margin-top: 40px;
-}
 .closeBtn{
     position:absolute;
     font-size:30px;
     cursor: pointer;
     top: 0px;
-    right: 20px;
+    right: 10px;
 }
-.closeBtn:hover{color: var(--orange);}
+.closeBtn:hover{color: var(--main);font-size:3rem;}
 
 /* Popup modal */
 #popup{z-index:1001;}
 .popup-modal{
-    z-index:11;
     display:none;
-    padding-top:100px;
     position:fixed;
     left:0;top:0;
-    width:100%;
-    height:120vh;
+    right: 0;
+    bottom: 0;
     overflow:auto;
-    margin-top: -100px;
 }
 .animate-zoom {-webkit-animation:animatezoom 0.6s;animation:animatezoom 0.6s}
 .container{position:relative;}
@@ -298,7 +292,7 @@
     .compHeader{min-height: 150px;}
 }
 .relPos{position: relative;}
-.description{min-height: 150px;}
+.description{min-height: 400px;}
 .rotateBtn{
     -webkit-transform : rotate(45deg); 
     -moz-transform : rotate(45deg); 

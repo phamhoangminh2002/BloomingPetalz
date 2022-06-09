@@ -54,9 +54,9 @@
         if ($(".btn-compare").hasClass("active")) {
 
             /* this is to print the  features list statically*/
-            $(".contentPop").append('<div class="col-3 compareItemParent relPos">' + 
+            $(".contentPop").append('<div class="col-2 compareItemParent relPos">' + 
                                         '<ul class="contentPop-product">' + 
-                                           '<li class="relPos compHeader"><p>Features</p></li>' + 
+                                           '<li class="relPos compHeader"></br>Features</li>' + 
                                            '<li class="name-li">Name</li>' +
                                            '<li>Price</li>'  +
                                            '<li class="description">Description</li>' +
@@ -72,7 +72,7 @@
                 $(".contentPop").append('<div class="col-4 compareItemParent relPos">' +
                                             '<ul class="contentPop-product">' + 
                                                '<li class="compHeader"><img src="' + image + '" class="compareThumb"></li>' +
-                                               '<li class="name-li">' + title + '</li>' + '<li>' + $(product).data('price') + '</li>' + 
+                                               '<li class="name-li">' + title + '</li>' + '<li>' + $(product).data('price')+'$' + '</li>' + 
                                                '<li class="description">' + $(product).data('description') + '</li>' +
                                              '</ul>' + 
                                         '</div>');
@@ -80,7 +80,6 @@
         }
         $(".modPos").show();
     });
-
 
     /* function to close the comparision popup */
     $(document).on('click', '.closeBtn', function () {
