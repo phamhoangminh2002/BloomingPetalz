@@ -202,7 +202,6 @@ var data = [
 
 displayImages(data);
 
-//lap trinh su kien search
 $("#formSearch").submit(function (e) {
     e.preventDefault();
 
@@ -213,7 +212,6 @@ $("#formSearch").submit(function (e) {
     displayImages(subdata);
 });
 
-// lap trinh chi tiet san pham
 var res = '';
 function getUrlID(){
     var urlID = window.location.href;
