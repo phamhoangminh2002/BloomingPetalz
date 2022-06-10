@@ -34,7 +34,6 @@
     align-items: center;
     justify-content: flex-end;
 }
-.form-search input{width: 100%;}
 .changeColor{
     color: var(--main);
     font-weight: bold;
@@ -45,22 +44,13 @@
     align-items: center;
  }
  .input-group input{
-     width: 50%;
-     height:5%;
+     width: 100%;
      padding: 10px;
      outline: none;
+     border-radius: 10px;
+     text-align: center;
+     border-color: var(--border);
  }
- .input-group button{
-     border: none;
-     background-color: transparent;
- }
- .input-group-btn i{
-     font-size:2rem;
-     border: none;
-     cursor: pointer;
-     color:var(--black);
- }
- .input-group-btn i:hover{color:var(--main);}
 @media screen and (max-width:786px) {
     .category{flex-wrap: wrap;}
     .label-container{flex: 100%;}
@@ -73,12 +63,6 @@
    .input-group input{width:80%;}
    label img, .input-group input{height: 30px;}
 }
-@media screen and (max-width:576px) {
-    .input-group-btn i{
-        font-size: 1.7rem;
-    }
-}
-
 /* Card */
 .row-card{
     width: 90%;

@@ -312,7 +312,7 @@ function displayImages(items) {
                         <div class="card-content">
                             <h4>${v.name}</h4>
                             <p><span>${v.price}$</span></p>
-                            <a href="#" data-name="${v.name}" data-price="${v.price}" class="add-to-cart btn btn-primary">Add to cart</a>
+                            <a href="#" data-name="${v.name}" data-price="${v.price}" class="add-to-cart">Add to cart</a>
                         </div>
                     </div>
                  `;
