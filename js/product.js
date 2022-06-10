@@ -8,7 +8,8 @@ var data = [
         "pic2": "one1_2.jpg",
         "pic3": "one1_3.jpg",
         "description": "<p><strong>Product detail:</strong>Be Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bestSellers"
+        "cat": "bestSellers",
+        "detail": "./detail.docx"
     },
     {
         "id": "p03",
@@ -19,7 +20,8 @@ var data = [
         "pic2": "one3_2.jpg",
         "pic3": "one3_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bestSellers"
+        "cat": "bestSellers",
+        "detail": "./detail.docx"
     },
     {
         "id": "p04",
@@ -30,7 +32,8 @@ var data = [
         "pic2": "one4_2.jpg",
         "pic3": "one4_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bestSellers"
+        "cat": "bestSellers",
+        "detail": "./detail.docx"
     },
     {
         "id": "p06",
@@ -41,7 +44,8 @@ var data = [
         "pic2": "one6_2.jpg",
         "pic3": "one6_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bestSellers"
+        "cat": "bestSellers",
+        "detail": "./detail.docx"
     },
     {
         "id": "p07",
@@ -52,7 +56,8 @@ var data = [
         "pic2": "one7_2.jpg",
         "pic3": "one13_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bestSellers"
+        "cat": "bestSellers",
+        "detail": "./detail.docx"
     },
     {
         "id": "p08",
@@ -63,7 +68,8 @@ var data = [
         "pic2": "one8_2.jpg",
         "pic3": "one8_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bestSellers"
+        "cat": "bestSellers",
+        "detail": "./detail.docx"
     },
     {
         "id": "p10",
@@ -74,7 +80,8 @@ var data = [
         "pic2": "one10_2.jpg",
         "pic3": "one10_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "giftbox"
+        "cat": "giftbox",
+        "detail": "./detail.docx"
     },
     {
         "id": "p11",
@@ -85,7 +92,8 @@ var data = [
         "pic2": "one11_2.jpg",
         "pic3": "one11_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bouquet"
+        "cat": "bouquet",
+        "detail": "./detail.docx"
     },
     {
         "id": "p12",
@@ -96,7 +104,8 @@ var data = [
         "pic2": "one12_2.jpg",
         "pic3": "one13_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bouquet"
+        "cat": "bouquet", 
+        "detail": "./detail.docx"
     },
     {
         "id": "p13",
@@ -107,7 +116,8 @@ var data = [
         "pic2": "one13_2.jpg",
         "pic3": "one13_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bouquet"
+        "cat": "bouquet",
+        "detail": "./detail.docx"
     },
     {
         "id": "p14",
@@ -118,7 +128,8 @@ var data = [
         "pic2": "one14_2.jpg",
         "pic3": "one14_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bouquet"
+        "cat": "bouquet",
+        "detail": "./detail.docx"
     },
     {
         "id": "p16",
@@ -129,7 +140,8 @@ var data = [
         "pic2": "one16_2.jpg",
         "pic3": "one16_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "giftbox"
+        "cat": "giftbox",
+        "detail": "./detail.docx"
     },
     {
         "id": "p17",
@@ -140,7 +152,8 @@ var data = [
         "pic2": "one17_2.jpg",
         "pic3": "one17_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "giftbox"
+        "cat": "giftbox",
+        "detail": "./detail.docx"
     },
     {
         "id": "p18",
@@ -151,7 +164,8 @@ var data = [
         "pic2": "one18_2.jpg",
         "pic3": "one18_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "giftbox"
+        "cat": "giftbox",
+        "detail": "./detail.docx"
     },
     {
         "id": "p19",
@@ -162,7 +176,8 @@ var data = [
         "pic2": "one19_2.jpg",
         "pic3": "one19_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bloombox"
+        "cat": "bloombox",
+        "detail": "./detail.docx"
     },
     {
         "id": "p20",
@@ -173,7 +188,8 @@ var data = [
         "pic2": "one20_2.jpg",
         "pic3": "one13_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bloombox"
+        "cat": "bloombox",
+        "detail": "./detail.docx"
     },
     {
         "id": "p21",
@@ -184,7 +200,8 @@ var data = [
         "pic2": "one21_2.jpg",
         "pic3": "one21_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bloombox"
+        "cat": "bloombox",
+        "detail": "./detail.docx"
     },
     {
         "id": "p22",
@@ -195,10 +212,12 @@ var data = [
         "pic2": "one22_2.jpg",
         "pic3": "one13_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bloombox"
+        "cat": "bloombox",
+        "detail": "./detail.docx"
     }
 ];
 
+{/* <a href="/I Love U Series.docx" download >DOWN FILE WORD PRODUCT-DETAILS HERE</a> */}
 
 displayImages(data);
 
@@ -255,7 +274,8 @@ function productDetail(){
                 <h2>${v.name}</h2>
                 <h3>Price:${v.price}$</h3>
                 <p>${v.description}</p>
-                <a href="#" data-name="${v.name}" data-price="${v.price}" class="add-to-cart">Add to cart</a>
+                <a class="readmore-detail" href="${v.detail}" download >Readmore <i class="fa-solid fa-file-arrow-down"></i></a>
+                <a class="add-detail" href="#" data-name="${v.name}" data-price="${v.price}" class="add-to-cart">Add to cart</a>
             </div>
         </div>
                 `;
