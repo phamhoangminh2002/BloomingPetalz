@@ -88,7 +88,7 @@
     transition:0.5s;
 }
 .col i{color:#888888;}
-.col span{margin-left: 10px;}
+.col span{margin-left: 10px;font-size:0.8rem;}
 @media screen and (max-width:786px) {
     .contact-top{flex-wrap: wrap;}
     .contact-top-text, .contact-top-submit{flex: 100%;}
