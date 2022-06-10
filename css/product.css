@@ -292,7 +292,7 @@
     .compHeader{min-height: 150px;}
 }
 .relPos{position: relative;}
-.description{min-height: 400px;}
+.description{min-height: 800px;}
 .rotateBtn{
     -webkit-transform : rotate(45deg); 
     -moz-transform : rotate(45deg); 

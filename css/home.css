@@ -18,8 +18,8 @@
 .nav-logo h3{
     font-family: var(--m-family);
     color: var(--main);
-    text-shadow: 0 0 2px black,
-                 0 0 2px black;
+    text-shadow: 0 0 2px var(--black),
+                 0 0 2px var(--black);
 }
 .nav-menu{
     flex: 60%;
