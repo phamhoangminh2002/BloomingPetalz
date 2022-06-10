@@ -74,7 +74,7 @@ var data = [
         "pic2": "one10_2.jpg",
         "pic3": "one10_3.jpg",
         "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
-        "cat": "bouquetOfTheMonth"
+        "cat": "giftbox"
     },
     {
         "id": "p11",
