@@ -31,6 +31,7 @@
 .sticky {
     background-color:var(--white);
     box-shadow: 0 0 10px var(--black);
+    height: 60px;
 }
 .nav-menu a{ position: relative;}
 .nav-menu a::after{
