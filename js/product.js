@@ -6,7 +6,7 @@ var data = [
         "pic": "p01_1.jpg",
         "pic1": "p01_2.jpg",
         "pic2": "p01_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Be Mine comes with 27 red soap roses together with eucalyptus and LED. </p><p>Size: </strong> 54cm x 48cm. </p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
+        "description": "<p><strong>Product detail:</strong>Be Mine Bouquet comes with 27 red soap roses together with eucalyptus and LED. </p><p>Size: </strong> 54cm x 48cm. </p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
         "cat": "bestSellers",
         "detail": "p01.docx"
     },
@@ -17,7 +17,7 @@ var data = [
         "pic": "p02_1.jpg",
         "pic1": "p02_2.jpg",
         "pic2": "p02_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Be Mine comes with 27 red soap roses together with eucalyptus and LED. </p><p>Size: </strong> 54cm x 48cm. </p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
+        "description": "<p><strong>Product detail:</strong>Eternal Love comes with 27 red soap roses together with eucalyptus and LED. </p><p>Size: </strong> 54cm x 48cm. </p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
         "cat": "bestSellers",
         "detail": "p02.docx"
     },
@@ -28,7 +28,7 @@ var data = [
         "price": 123,
         "pic1": "p03_2.jpg",
         "pic2": "p03_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Be My Lover comes with 12 red soap roses with diamond pins. </p><p>Size: </strong> 29cm x 32cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
+        "description": "<p><strong>Product detail:</strong>True Love Big Size Giftbox comes with 12 red soap roses with diamond pins. </p><p>Size: </strong> 29cm x 32cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
         "cat": "bestSellers",
         "detail": "p03.docx"
     },
@@ -39,7 +39,7 @@ var data = [
         "price": 250,
         "pic1": "p04_2.jpg",
         "pic2": "p04_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Ruby comes with 12 red and maroon soap roses. </p><p>Size: </strong>30cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
+        "description": "<p><strong>Product detail:</strong>Evelyn comes with 12 red and maroon soap roses. </p><p>Size: </strong>30cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
         "cat": "bestSellers",
         "detail": "p04.docx"
     },
@@ -50,7 +50,7 @@ var data = [
         "pic": "p05_1.jpg",
         "pic1": "p05_2.jpg",
         "pic2": "p05_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Ruby comes with 12 red and maroon soap roses. </p><p>Size: </strong>30cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
+        "description": "<p><strong>Product detail:</strong>Fiona comes with 12 red and maroon soap roses. </p><p>Size: </strong>30cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
         "cat": "bouquet",
         "detail": "p05.docx"
     },
@@ -61,7 +61,7 @@ var data = [
         "pic": "p06_1.jpg",
         "pic1": "p06_2.jpg",
         "pic2": "p06_3.jpg",
-        "description": "<p><strong>Product detail:</strong> Mine comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
+        "description": "<p><strong>Product detail:</strong> Mine Forever comes with 27 red soap roses together with eucalyptus and LED.  </p><p><strong>Size: </strong> 54cm x 48cm.  </p><p> *Flower arrangement, shades, bloom sizes may vary from the picture shown.  </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.)Free Message Card</p><p>**Any enquiries please chat with us at 011-56278126 before placing an ordser**Save this product for later  </p>",
         "cat": "bouquet",
         "detail": "p06.docx"
     },
@@ -72,7 +72,7 @@ var data = [
         "price": 150,
         "pic1": "p07_2.png",
         "pic2": "p07_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Soulmate comes with 12 pink soap roses together with baby breath, cherry blossom and star flower.</p><p>Size: </strong>40cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
+        "description": "<p><strong>Product detail:</strong>Sweet Heart comes with 12 pink soap roses together with baby breath, cherry blossom and star flower.</p><p>Size: </strong>40cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
         "cat": "bouquet",
         "detail": "p07.docx"
     },
@@ -83,7 +83,7 @@ var data = [
         "pic": "p08_1.jpg",
         "pic1": "p08_2.jpg",
         "pic2": "p08_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Evelyn bouquet comes with 20 pink & white soap roses. </p><p>Size: </strong>38cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
+        "description": "<p><strong>Product detail:</strong>Ocean comes with 20 pink & white soap roses. </p><p>Size: </strong>38cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
         "cat": "bouquet",
         "detail": "p08.docx"
     },
@@ -94,7 +94,7 @@ var data = [
         "pic": "p09_1.jpg",
         "pic1": "p09_2.jpg",
         "pic2": "p09_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Irene comes with 20 red & maroon soap roses with eucalyptus. </p><p>Size: </strong>40cm x 50cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",        
+        "description": "<p><strong>Product detail:</strong>True Love comes with 20 red & maroon soap roses with eucalyptus. </p><p>Size: </strong>40cm x 50cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",        
         "cat": "bloombox",
         "detail": "p09.docx"
     },
@@ -105,7 +105,7 @@ var data = [
         "price": 123,
         "pic1": "p10_2.jpg",
         "pic2": "p10_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Irene comes with 20 red & maroon soap roses with eucalyptus. </p><p>Size: </strong>40cm x 50cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
+        "description": "<p><strong>Product detail:</strong>Fairytale comes with 20 red & maroon soap roses with eucalyptus. </p><p>Size: </strong>40cm x 50cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",
         "cat": "bloombox",
         "detail": "p10.docx"
     },
@@ -116,7 +116,7 @@ var data = [
         "pic": "p11_1.jpg",
         "pic1": "p11_2.jpg",
         "pic2": "p11_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Fiona Bouquet combination with 6 pink soap roses, star flower and baby breath. </p><p>Size: </strong>40 cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>", 
+        "description": "<p><strong>Product detail:</strong>Kawaii Unicorn combination with 6 pink soap roses, star flower and baby breath. </p><p>Size: </strong>40 cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>", 
         "cat": "bloombox",
         "detail": "p11.docx"
     },
@@ -127,7 +127,7 @@ var data = [
         "pic": "p12_1.jpg",
         "pic1": "p12_2.jpg",
         "pic2": "p12_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Amber Bouquet combination with 12 pink & coral soap roses, baby breath and eucalyptus.</p><p>Size: </strong>38 cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",        
+        "description": "<p><strong>Product detail:</strong>Mini Orchid Soap combination with 12 pink & coral soap roses, baby breath and eucalyptus.</p><p>Size: </strong>38 cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",        
         "cat": "bloombox", 
         "detail": "p12.docx"
     },
@@ -138,7 +138,7 @@ var data = [
         "pic": "p13_1.jpg",
         "pic1": "p13_2.jpg",
         "pic2": "p13_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Sapphire comes with 12 ice blue soap roses.</p><p>Size:</strong> 25cm x 30cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",        
+        "description": "<p><strong>Product detail:</strong>I Love You Series comes with 12 ice blue soap roses.</p><p>Size:</strong> 25cm x 30cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",        
         "cat": "giftbox",
         "detail": "p13.docx"
     },
@@ -149,7 +149,7 @@ var data = [
         "pic": "p14_1.jpg",
         "pic1": "p14_2.jpg",
         "pic2": "p14_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Amethyst comes with 24 purple soap roses with baby breath.</p><p>Size:</strong>40cm x 50cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
+        "description": "<p><strong>Product detail:</strong>Heart For You comes with 24 purple soap roses with baby breath.</p><p>Size:</strong>40cm x 50cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
         "cat": "giftbox",
         "detail": "p14.docx"
     },
@@ -160,7 +160,7 @@ var data = [
         "pic": "p15_1.jpg",
         "pic1": "p15_2.jpg",
         "pic2": "p15_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Amethyst comes with 24 purple soap roses with baby breath.</p><p>Size:</strong>40cm x 50cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
+        "description": "<p><strong>Product detail:</strong>Customize Initial comes with 24 purple soap roses with baby breath.</p><p>Size:</strong>40cm x 50cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
         "cat": "giftbox",
         "detail": "p15.docx"
     },
@@ -171,7 +171,7 @@ var data = [
         "pic": "p16_1.jpg",
         "pic1": "p16_2.jpg",
         "pic2": "p16_3.jpg",
-        "description": "<p><strong>Product detail:</strong>True Love comes with 1 white rose & 1 pink soap roses together with dusty pink peony, pink carnation, pink hydrangea, white cherry blossom, purple daisy and winged everlasting.</p><p>Size:</strong>20cm x 14.5cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",        
+        "description": "<p><strong>Product detail:</strong>Classy Soap Flower comes with 1 white rose & 1 pink soap roses together with dusty pink peony, pink carnation, pink hydrangea, white cherry blossom, purple daisy and winged everlasting.</p><p>Size:</strong>20cm x 14.5cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",        
         "cat": "giftbox",
         "detail": "p16.docx"
     },
@@ -182,7 +182,7 @@ var data = [
         "pic": "p17_1.jpg",
         "pic1": "p17_2.jpg",
         "pic2": "p17_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Fairytale combination with 30 cream & pink soap roses, carnation, hydrangea and love feather LED.</p><p>Size:</strong>41cm x 28cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",        
+        "description": "<p><strong>Product detail:</strong>Amethyst combination with 30 cream & pink soap roses, carnation, hydrangea and love feather LED.</p><p>Size:</strong>41cm x 28cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",        
         "cat": "bouquet",
         "detail": "p17.docx"
     },
@@ -193,7 +193,7 @@ var data = [
         "pic": "p18_1.jpg",
         "pic1": "p18_2.jpg",
         "pic2": "p18_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Mini Orchid Soap Flower Giftbox with combination of fillers.</p><p>Size: </strong>19cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
+        "description": "<p><strong>Product detail:</strong>Pauline with combination of fillers.</p><p>Size: </strong>19cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
         "cat": "bouquet",
         "detail": "p18.docx"
     },
@@ -204,7 +204,7 @@ var data = [
         "pic": "p19_1.jpg",
         "pic1": "p19_2.jpg",
         "pic2": "p19_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Kawaii Unicorn comes with 3 pink roses which represents 'I Love You'.</p><p>Size:</strong>15cm x 10cm x 7.5cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",   
+        "description": "<p><strong>Product detail:</strong>You're My Honey Bee comes with 3 pink roses which represents 'I Love You'.</p><p>Size:</strong>15cm x 10cm x 7.5cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",   
         "cat": "bouquet",
         "detail": "p19.docx"
     },
@@ -215,7 +215,7 @@ var data = [
         "pic": "p20_1.jpg",
         "pic1": "p20_2.jpg",
         "pic2": "p20_3.jpg",
-        "description": "<p><strong>Product detail:</strong>Loving You comes with combination soap roses with preserved flowers.</p><p>Balloon size:</strong>5 inch.<p>Size: </strong>15cm x 10cm x 7.5cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
+        "description": "<p><strong>Product detail:</strong>Burlap Wrap Red comes with combination soap roses with preserved flowers.</p><p>Balloon size:</strong>5 inch.<p>Size: </strong>15cm x 10cm x 7.5cm.</p><p></strong> *Flower arrangement, shades, bloom sizes may vary from the picture shown. </p><p> Available for Same Day Delivery within Ho Chi Minh City (order placed before 12pm.) </p><p> Free Message Card</p><p></strong>**Any enquiries please chat with us at 0354-868-289 before placing an order**</p><p></strong>Save this product for later </p>",       
         "cat": "bouquet",
         "detail": "p20.docx"
     }

@@ -59,7 +59,7 @@
                 product = $('.card-container[data-id="' + list[i] + '"]');
                 var image = $('[data-id=' + list[i] + ']').find(".flowerImage").attr('src');
                 var title = $('[data-id=' + list[i] + ']').attr('data-name');
-                $(".contentPop").append('<div class="col-4 compareItemParent relPos">' +
+                $(".contentPop").append('<div class="col-3 col-tab-4 compareItemParent relPos">' +
                                             '<ul class="contentPop-product">' + 
                                                '<li class="compHeader"><img src="' + image + '" class="compareThumb"></li>' +
                                                '<li class="name-li">' + title + '</li>' + '<li>' + $(product).data('price')+'$' + '</li>' + 

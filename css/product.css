@@ -219,10 +219,10 @@
     position:absolute;
     font-size:30px;
     cursor: pointer;
-    top: 0px;
+    top: -10px;
     right: 10px;
 }
-.closeBtn:hover{color: var(--main);font-size:3rem;}
+.closeBtn:hover{color: var(--main);}
 
 /* Popup modal */
 #popup{z-index:1001;}
@@ -233,6 +233,8 @@
     right: 0;
     bottom: 0;
     overflow:auto;
+    background-color: white;
+    padding-top: 50px;
 }
 .animate-zoom {-webkit-animation:animatezoom 0.6s;animation:animatezoom 0.6s}
 .container{position:relative;}
@@ -276,7 +278,7 @@
     .compHeader{min-height: 150px;}
 }
 .relPos{position: relative;}
-.description{min-height: 800px;}
+.description{min-height: 550px;}
 .rotateBtn{
     -webkit-transform : rotate(45deg); 
     -moz-transform : rotate(45deg); 
