@@ -62,7 +62,7 @@
 }
 .map-icon i{
     font-size:1.5rem;
-    color: #888888;
+    color:var(--grey8);
     padding-right: 40px;
 }
 .map-icon i:hover{
@@ -78,7 +78,7 @@
     padding-left:5%;
 }
 .col a,p{
-    color: #888888;
+    color:var(--grey8);
     padding:10px 0;
     cursor:pointer;
 }
@@ -87,7 +87,7 @@
     transform:translateX(10px);
     transition:0.5s;
 }
-.col i{color:#888888;}
+.col i{color:var(--grey8);}
 .col span{margin-left: 10px;font-size:0.8rem;}
 @media screen and (max-width:786px) {
     .contact-top{flex-wrap: wrap;}

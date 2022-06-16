@@ -233,7 +233,7 @@
     right: 0;
     bottom: 0;
     overflow:auto;
-    background-color: white;
+    background-color: var(--white);
     padding-top: 50px;
 }
 .animate-zoom {-webkit-animation:animatezoom 0.6s;animation:animatezoom 0.6s}

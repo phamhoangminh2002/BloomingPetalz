@@ -17,12 +17,13 @@
     --lightgrey: #F9F9F9;
     --black: black;
     --lightblack:rgba(0,0,0,0.7);
+    --grey8:#888;
     --m-family:'Karla';
 }
-h1{font-size:4rem; font-family:'Karla';}
-h2{font-size:1.8rem;font-family:'Karla';}
-h3{font-size:1.8rem;font-family:'Karla';}
-h4{font-size:1.2rem;font-family:'Karla';}
+h1{font-size:4rem; font-family:var(--m-family);}
+h2{font-size:1.8rem;font-family:var(--m-family);}
+h3{font-size:1.8rem;font-family:var(--m-family);}
+h4{font-size:1.2rem;font-family:var(--m-family);}
 button{font-size:0.8rem}
 @media screen and (max-width:786px) {
     h1{ font-size:3rem;}

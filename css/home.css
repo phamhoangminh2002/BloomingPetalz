@@ -1,8 +1,7 @@
 .nav{
     display: flex;
     height:120px;
-    width:100vw;
-    background-color: transparent;
+    width:100%;
     transition: 0.8s;
     color: var(--grey);
     z-index:10;
@@ -17,9 +16,10 @@
 }
 .nav-logo h3{
     font-family: var(--m-family);
+    font-weight:bold;
     color: var(--main);
-    text-shadow: 0 0 2px var(--black),
-                 0 0 2px var(--black);
+    text-shadow: 0 2px 2px var(--black),
+                 0 2px 2px var(--black);
 }
 .nav-menu{
     flex: 60%;
@@ -33,7 +33,11 @@
     box-shadow: 0 0 10px var(--black);
     height: 60px;
 }
-.nav-menu a{ position: relative;}
+.nav-menu a{ 
+    position: relative;
+    color: var(--black);
+    font-weight:500;
+}
 .nav-menu a::after{
     position: absolute;
     content: "";
@@ -48,10 +52,6 @@
 .nav-menu a:hover::after{
     left: 0;
     width: 100%;}
-.nav-menu a{
-    color: var(--grey);
-    font-weight: 500;
-}
 .nav-menu a:hover{color: var(--main);}
 .nav-icon{
     flex: 20%;
@@ -102,10 +102,11 @@
 .mySlides img{
     transform: scale(0.6);
     position: absolute;
-    top:50%;
+    top:70%;
     transform: translateY(-50%);
     left: 30%;
     object-position: center;
+    filter:grayscale(0.5)
 }
 .prev, .next {
 cursor: pointer;
@@ -152,6 +153,7 @@ transition: 0.5s;
 .fade {animation-name: fade;animation-duration: 1.5s;}
 @media screen and (max-width:786px) {
     .nav{height:60px}
+    .nav-logo h3{font-size: 1.3rem;}
     .nav-icon{flex: 70%;}
     .nav-menu{
         flex-direction: column;
