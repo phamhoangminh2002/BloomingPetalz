@@ -127,14 +127,21 @@ return obj;
 var cartIcon = document.querySelector("#cartIcon");
 var modal = document.querySelector("#cart");
 var btnx = document.querySelector("#btnX");
-var overlay = document.querySelector(".overlay");
+var btnXCheckout = document.querySelector(".btnX-checkout");
+var btnOrder = document.querySelector(".btn-order");
+var checkoutModal = document.querySelector(".checkout");
   cartIcon.onclick = () => {
     modal.style.display="block";
-    overlay.style.display="block";
   }
   btnx.onclick = function(){
     modal.style.display= "none";
-    overlay.style.display="none";
+  }
+  btnOrder.onclick =() => {
+    checkoutModal.style.display = "block";
+    modal.style.display= "none";
+  }
+  btnXCheckout.onclick =() => {
+    checkoutModal.style.display = "none";
   }
   $('.add-to-cart').click(function(event) {
     event.preventDefault();

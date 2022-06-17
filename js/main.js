@@ -73,3 +73,10 @@ function show(){
     return true;
   }
 }
+function checkout(){
+   var checkoutModal = document.querySelector(".checkout");
+   var form = document.querySelector(".form");
+   alert("Order successfully ! Please waiting your order");
+   checkoutModal.style.display = "none";
+   form.reset()
+}
