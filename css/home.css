@@ -153,7 +153,6 @@ transition: 0.5s;
 .fade {animation-name: fade;animation-duration: 1.5s;}
 @media screen and (max-width:786px) {
     .nav{height:60px}
-    .nav-logo h3{font-size: 1.3rem;}
     .nav-icon{flex: 70%;}
     .nav-menu{
         flex-direction: column;
