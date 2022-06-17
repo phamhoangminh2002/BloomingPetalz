@@ -130,6 +130,7 @@ var btnx = document.querySelector("#btnX");
 var btnXCheckout = document.querySelector(".btnX-checkout");
 var btnOrder = document.querySelector(".btn-order");
 var checkoutModal = document.querySelector(".checkout");
+var overlayCheckout = document.querySelector(".overlay-checkout");
   cartIcon.onclick = () => {
     modal.style.display="block";
   }
@@ -139,9 +140,15 @@ var checkoutModal = document.querySelector(".checkout");
   btnOrder.onclick =() => {
     checkoutModal.style.display = "block";
     modal.style.display= "none";
+    overlayCheckout.style.display = "block";
   }
   btnXCheckout.onclick =() => {
     checkoutModal.style.display = "none";
+    overlayCheckout.style.display = "none";
+  }
+  overlayCheckout.onclick =() => {
+    checkoutModal.style.display = "none";  
+    overlayCheckout.style.display = "none";  
   }
   $('.add-to-cart').click(function(event) {
     event.preventDefault();

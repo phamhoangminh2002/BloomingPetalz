@@ -9,7 +9,16 @@
     background-color: var(--white);
     display: none;
 }
-
+.overlay-checkout{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--lightblack);
+    z-index: 9999;
+    display: none;
+}
 .checkout input{
     width: 100%;
     margin-bottom: 20px;
