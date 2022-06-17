@@ -137,13 +137,11 @@ var overlay = document.querySelector(".overlay");
     overlay.style.display="none";
   }
   $('.add-to-cart').click(function(event) {
-    alert("add")
     event.preventDefault();
     var name = $(this).data('name');
     var price = Number($(this).data('price'));
     shoppingCart.addItemToCart(name, price, 1);
     displayCart();
-    //a();
   });
 
 // ******Clear items********//

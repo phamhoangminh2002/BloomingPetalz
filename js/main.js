@@ -64,5 +64,12 @@ function showSlides(n) {
   text2.style.transform = "scale(1)";
 }
 function show(){
-   alert("You submited successfully!");
+   var email = document.querySelector('#email').value;
+  if(email==''){
+    alert('Please enter a valid email');
+    return false;
+  }else{
+    alert("You submited successfully!");
+    return true;
+  }
 }
