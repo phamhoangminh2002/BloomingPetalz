@@ -62,5 +62,7 @@ function showSlides(n) {
   text1.style.transform = "scale(1)";
   let text2 =document.getElementsByClassName("text")[1];
   text2.style.transform = "scale(1)";
-  dots[slideIndex-1].className += " active";
+}
+function show(){
+   alert("You submited successfully!");
 }

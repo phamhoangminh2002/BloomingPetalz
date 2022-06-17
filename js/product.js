@@ -274,7 +274,7 @@ function productDetail(){
                 <h3>Price: ${v.price}$</h3>
                 <p>${v.description}</p>
                 <a class="readmore-detail" href="detail/${v.detail}" download >READMORE <i class="fa-solid fa-file-arrow-down"></i></a>
-                <a class="add-detail" href="#" data-name="${v.name}" data-price="${v.price}" class="add-to-cart">Add to cart</a>
+                <a  href="#" data-name="${v.name}" data-price="${v.price}" class="add-detail add-to-cart">Add to cart</a>
             </div>
         </div>
                 `;

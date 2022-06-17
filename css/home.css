@@ -106,7 +106,6 @@
     transform: translateY(-50%);
     left: 30%;
     object-position: center;
-    filter:grayscale(0.5)
 }
 .prev, .next {
 cursor: pointer;
@@ -126,16 +125,16 @@ border-radius: 5px;
 .slideshow-container:hover .next{right: 10px;}
 .prev:hover,.next:hover{color: var(--main);}
 .text {
-color: var(--grey);
-font-size: 15px;
-right: 20%;
-position: absolute;
-top:40%;
-transform: translateY(-30%);
-width: 100%;
-text-align: center;
-transform: scale(0);
-transition: 0.5s;
+    color: var(--grey);
+    font-size: 15px;
+    right: 20%;
+    position: absolute;
+    top:40%;
+    transform: translateY(-30%);
+    width: 100%;
+    text-align: center;
+    transform: scale(0);
+    transition: 0.5s;
 }
 .button{
     padding:25px 30px;
@@ -144,6 +143,7 @@ transition: 0.5s;
     background-color: var(--main);
     color: var(--white);
     margin-top: 40px;
+    display: inline-block;
 }
 .button:hover{
     transform: translateY(-5px);
