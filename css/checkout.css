@@ -40,6 +40,7 @@
     position: absolute;
     right: 20px;
 }
+.btnX-checkout:hover{color: var(--main);}
 .btn-checkout{
     display: block;
     background-color:var(--main);
@@ -51,6 +52,7 @@
     margin-right: auto;
     border: var(--border);
 }
+.btn-checkout:hover{transform: translateY(-5px);}
 @media screen and (max-width:1000px) {
     .checkout.row{width: 100%;}
 }
